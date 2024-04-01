@@ -24,6 +24,7 @@ body {
     display: inline-block;
     margin: 0 16px;
     font-size: 16px;
+    bottom: unset;
    /*/margin-left: 20px;/*/
 }
 
