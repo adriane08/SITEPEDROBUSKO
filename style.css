@@ -28,6 +28,7 @@ body {
 
  .titulo-principal {
     background-color: #709B96;
+    border-radius: 10px;
 }
 .escola-imagem{
     width: 25%;
