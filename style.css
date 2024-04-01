@@ -92,6 +92,7 @@ body {
 .rodape{
     background-color: #ffffff;
     text-align: center;
+    border-radius: 10PX;
 }
 
 .rodape-imagem{
