@@ -26,6 +26,9 @@ body {
     font-size: 16px;
 }
 
+.cabecalho .h1 {
+    background-color: #709B96;
+}
 .escola-imagem{
     width: 25%;
 }
